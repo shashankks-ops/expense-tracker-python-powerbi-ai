@@ -155,7 +155,7 @@ ExpenseTracker/
 
 #1. Clone the repository
 
-git clone <your-github-repository-url>
+git clone https://github.com/shashankks-ops/expense-tracker-python-powerbi-ai.git
 
 Navigate into the project:
 
@@ -204,6 +204,20 @@ The dashboard allows users to explore expense patterns using interactive charts 
 * Category filter
 * Payment Method filter
 * Monthly filter
+
+## 📸 Project Screenshots
+
+### Executive Dashboard
+
+![Executive Dashboard](screenshots/dashboard.png)
+
+### Expense Analysis
+
+![Expense Analysis](screenshots/expense_analysis.png)
+
+### AI Expense Assistant
+
+![AI Expense Assistant](screenshots/ai_assistant.png)
 
 #Requirements
 
