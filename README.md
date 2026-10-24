@@ -209,15 +209,15 @@ The dashboard allows users to explore expense patterns using interactive charts 
 
 ### Executive Dashboard
 
-![Executive Dashboard](screenshots/dashboard.png)
+![Executive Dashboard](Screenshots/dashboard.png)
 
 ### Expense Analysis
 
-![Expense Analysis](screenshots/expense_analysis.png)
+![Expense Analysis](Screenshots/expense_analysis.png)
 
 ### AI Expense Assistant
 
-![AI Expense Assistant](screenshots/ai_assistant.png)
+![AI Expense Assistant](Screenshots/ai_assistant.png)
 
 #Requirements
 
